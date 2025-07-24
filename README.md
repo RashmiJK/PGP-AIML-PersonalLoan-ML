@@ -1,3 +1,8 @@
+![](feature_imp.png)
+![](tree.png)
+
+[Analysis Notebook](loan_purchase_modelling_dt.ipynb) <br>
+
 # Problem statement
 
 AllLife Bank aims to expand its base of personal loan customers by converting liability customers (depositors) into borrowers. A previous campaign achieved a conversion rate of over 9%, indicating potential growth opportunities in this area. The current task is to develop a predictive model to identify **customer attributes** that significantly influence loan purchases and to determine **segments of customers** with a higher probability of opting for personal loans. This model will assist in targeted marketing efforts, enhancing the effectiveness of future campaigns.
