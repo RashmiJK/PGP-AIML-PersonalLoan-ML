@@ -1,3 +1,15 @@
+# Project foundation
+In ML module of this course, I've gained a good understanding of core machine learning concepts and techniques, which are crucial for this project. The key areas of learning include:
+
+* Supervised Learning: Build and evaluate models like Linear Regression and Decision Trees to predict a specific outcome.
+
+* Unsupervised Learning: Explore K-Means Clustering to discover hidden patterns and group similar data points without predefined labels.
+
+* Model Building Fundamentals: I've also put together a simple, beginner-friendly guide that outlines the key steps to build your first machine learning model.
+
+![](framework_model.png)
+
+# Loan Purchase Modelling with Decision Trees
 ![](feature_imp.png)
 ![](tree.png)
 
